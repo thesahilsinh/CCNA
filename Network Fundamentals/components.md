@@ -1,6 +1,6 @@
 1> Routers
 
-![alt text](Network Fundamentals/image/Screenshot 2026-03-17 155055.png
+<img width="67" height="84" alt="Screenshot 2026-03-17 155055" src="https://github.com/user-attachments/assets/8581e88d-35bd-4038-ab13-6caf4fe6111b" />
 
 2> Layer 2 and Layer 3 switches
 
@@ -15,4 +15,5 @@
 7> Servers
 
 8> PoE
+
 
