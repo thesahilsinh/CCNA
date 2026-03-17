@@ -1,6 +1,6 @@
 1> Routers
 
-![alt text](image/Screenshot 2026-03-17)
+![alt text](Network Fundamentals/image/Screenshot 2026-03-17 155055.png
 
 2> Layer 2 and Layer 3 switches
 
